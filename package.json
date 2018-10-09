@@ -1,0 +1,23 @@
+{
+  "name": "location-mapping",
+  "version": "1.0.0",
+  "description": "This project is intended to work with google search API to identify businesses and take the parameters of radius to visually display this data in a manner that would help to identify potential spots for expansion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-g13/location-mapping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan-g13/location-mapping/issues"
+  },
+  "homepage": "https://github.com/ryan-g13/location-mapping#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
